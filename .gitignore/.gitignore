@@ -1,9 +1,0 @@
-# Ignore local Spotify data
-/data/*.json
-
-# Ignore results folder
-/results/
-
-# Python cache files
-__pycache__/
-*.pyc
